@@ -1,0 +1,15 @@
+### **Proforma Details – Adjustments Tab**
+
+The Adjustment tab is used to add Adjustment cards used to adjust the amount of the entire proforma total by an amount or a percent. Adjustment cards can also be edited and deleted.
+
+<img src="/img/media/image82.png" style={{width: "6.5in", height: "1.53125in"}} />
+
+<table style={{width: "100%"}}>
+<colgroup>
+<col style={{width: "19%"}} />
+<col style={{width: "80%"}} />
+</colgroup>
+<thead><tr><th><strong>Field Name</strong></th><th><strong>Description</strong></th></tr></thead>
+<tbody><tr><td><strong>Add adjustment</strong></td><td>Click to create an adjustment for the proforma.</td></tr><tr><td><strong>Timekeeper</strong></td><td>Displays the name of the timekeeper whose fees have been adjusted.</td></tr><tr><td><strong>Start date</strong></td><td>Displays the start date for which time cards will be considered for the adjustment.</td></tr><tr><td><strong>End date</strong></td><td>Displays the end date for which time cards will be considered for the adjustment.</td></tr><tr><td><strong>Type</strong></td><td>Displays the apply adjustment type.</td></tr><tr><td><strong>Method</strong></td><td>Displays the how the adjustment is applied.</td></tr><tr><td><strong>Amount</strong></td><td>Displays the adjusted total.</td></tr><tr><td><strong>Action Menu</strong></td><td><p>Select one of the adjustment actions as needed.</p><ul><li><p><strong>Edit</strong> - Select to edit an adjustment.</p></li><li><p><strong>Delete</strong> - Select to delete an adjustment.</p></li></ul></td></tr></tbody>
+</table>
+
