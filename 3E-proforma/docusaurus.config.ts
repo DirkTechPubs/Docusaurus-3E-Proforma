@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/DirkTechPubs/Docusaurus-3E-Proforma/edit/main/',
+            'https://github.com/DirkTechPubs/Docusaurus-3E-Proforma/edit/main/3E-proforma/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/DirkTechPubs/Docusaurus-3E-Proforma/edit/main/',
+            'https://github.com/DirkTechPubs/Docusaurus-3E-Proforma/edit/main/3E-proforma/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
