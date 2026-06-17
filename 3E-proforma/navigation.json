@@ -1,0 +1,654 @@
+[
+    {
+        "label":  "Guides",
+        "type":  "tab",
+        "path":  "docs",
+        "children":  [
+                         {
+                             "label":  "Overview",
+                             "type":  "page",
+                             "path":  "docs/Overview.md"
+                         },
+                         {
+                             "label":  "Getting Started",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "Accessing 3E Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Getting-Started/Accessing-3E-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Working As Another User",
+                                                  "type":  "page",
+                                                  "path":  "docs/Getting-Started/Working-As-Another-User.md"
+                                              },
+                                              {
+                                                  "label":  "Navigating 3E Proforma - Walkthrough",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "Navigating the Proforma List",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Navigating-the-Proforma-List.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Navigating the Proforma Detail View",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Navigating-the-Proforma-Detail-View.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Side Navigation Menu",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Side-Navigation-Menu.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Global Toolbar",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Global-Toolbar.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Paging Bar",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Paging-Bar.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Icon Legend",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Icon-Legend.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "Standard Features and Navigation",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "Standard Features and Navigation",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Standard-Features-and-Navigation/Standard-Features-and-Navigation.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Filters",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Standard-Features-and-Navigation/Filters.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Global Toolbar",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Global-Toolbar.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Lists",
+                                                                       "type":  "group",
+                                                                       "children":  [
+                                                                                        {
+                                                                                            "label":  "Navigating Lists in 3E Proforma",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "List View Types",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Grid Column Settings",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Group List Items",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Filter and Sort List Items",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                                   {
+                                                                       "label":  "Entering Codes",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Standard-Features-and-Navigation/Entering-Codes.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Card Narrative Fields",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Standard-Features-and-Navigation/Card-Narrative-Fields.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Edit Level Tracking",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Getting-Started/Standard-Features-and-Navigation/Edit-Level-Tracking.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "AI Inquiry",
+                                                                       "type":  "group",
+                                                                       "children":  [
+                                                                                        {
+                                                                                            "label":  "Elite Intelligence",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Delegate Tasks with AI for Proforma",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "AI for Proforma - Stock Prompt Library",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
+                                                                                    ]
+                                                                   }
+                                                               ]
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "3E Proforma Settings",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About Settings",
+                                                  "type":  "page",
+                                                  "path":  "docs/3E-Proforma-Settings/About-Settings.md"
+                                              },
+                                              {
+                                                  "label":  "Settings Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/3E-Proforma-Settings/Settings-Form-and-Field-Definitions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Proforma List View",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About Proforma List View",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-List-View/About-Proforma-List-View.md"
+                                              },
+                                              {
+                                                  "label":  "Proforma Lists Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-List-View/Proforma-Lists-Form-and-Field-Definitions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Proforma Detail View",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About Proforma Details",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/About-Proforma-Details.md"
+                                              },
+                                              {
+                                                  "label":  "Proforma Details Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Proforma-Details-Form-and-Field-Definitions.md"
+                                              },
+                                              {
+                                                  "label":  "Exiting Proforma Detail View",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Exiting-Proforma-Detail-View.md"
+                                              },
+                                              {
+                                                  "label":  "Reason Code Requested",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Reason-Code-Requested.md"
+                                              },
+                                              {
+                                                  "label":  "Add Proforma Instructions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Add-Proforma-Instructions.md"
+                                              },
+                                              {
+                                                  "label":  "Add Invoice Narrative",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Add-Invoice-Narrative.md"
+                                              },
+                                              {
+                                                  "label":  "Approve or Reject Proformas",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Approve-or-Reject-Proformas.md"
+                                              },
+                                              {
+                                                  "label":  "Reclaim Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Reclaim-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Add Fees",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "About Add Fees",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Add-Fees/About-Add-Fees.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Add Fee Card to Proforma",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Add-Fees/Add-Fee-Card-to-Proforma.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Add Fee Form and Field Definitions",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Add-Fees/Add-Fee-Form-and-Field-Definitions.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "Add Costs",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "About Add Cost",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Add-Costs/About-Add-Cost.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Add Cost Card to Proforma",
+                                                                       "type":  "page",
+                                                                       "path":  ""
+                                                                   },
+                                                                   {
+                                                                       "label":  "Add Cost Form and Field Definitions",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Add-Costs/Add-Cost-Form-and-Field-Definitions.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "Managing Cards",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "Exclude Cards",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Exclude-Cards.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Transfer Cards",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Transfer-Cards.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Change Card Status to No Charge",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Change-Card-Status-to-No-Charge.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Set Card Status to Bill No Print",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Set-Card-Status-to-Bill-No-Print.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Update Card Purge Type",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Update-Card-Purge-Type.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Combine Cards",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Combine-Cards.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Divide Entries",
+                                                                       "type":  "group",
+                                                                       "children":  [
+                                                                                        {
+                                                                                            "label":  "About Divide Cards",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Divide Cards",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Divide Card Form and Field Definitions",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
+                                                                                    ]
+                                                                   },
+                                                                   {
+                                                                       "label":  "Flag Card as Non-billable",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Flag-Card-as-Non-billable.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Write Down a Card",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Cards/Write-Down-a-Card.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "Managing Funds",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "Apply Funds",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Funds/Apply-Funds.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Remove Applied Funds",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Managing-Funds/Remove-Applied-Funds.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "Group Edit",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "Bill Fees or Costs Only",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Group-Edit/Bill-Fees-or-Costs-Only.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Write Offs",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Group-Edit/Write-Offs.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "Adjustments",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "About Adjustments",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Adjustments/About-Adjustments.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Add Adjustments",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Adjustments/Add-Adjustments.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Add Adjustment Form and Field Definitions",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Adjustments/Add-Adjustment-Form-and-Field-Definitions.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "Include Late Cards in Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/Include-Late-Cards-in-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "View Proforma Edit History",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Detail-View/View-Proforma-Edit-History.md"
+                                              },
+                                              {
+                                                  "label":  "Tools",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "Find and Replace",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/Proforma-Detail-View/Tools/Find-and-Replace.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Spell Check",
+                                                                       "type":  "group",
+                                                                       "children":  [
+                                                                                        {
+                                                                                            "label":  "About Spell Check",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Spell Check Proforma",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Spell Check Form and Field Definitions",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
+                                                                                    ]
+                                                                   }
+                                                               ]
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Proforma Tasks",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "Set Proforma Priority Status",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Set-Proforma-Priority-Status.md"
+                                              },
+                                              {
+                                                  "label":  "Add Proforma Comments",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Add-Proforma-Comments.md"
+                                              },
+                                              {
+                                                  "label":  "Viewing Proforma Level Comments",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Viewing-Proforma-Level-Comments.md"
+                                              },
+                                              {
+                                                  "label":  "Completing a Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Completing-a-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Forward Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Forward-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Submit Proforma for Review",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Submit-Proforma-for-Review.md"
+                                              },
+                                              {
+                                                  "label":  "Defer Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Defer-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Print Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Print-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "View Bill Preview",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/View-Bill-Preview.md"
+                                              },
+                                              {
+                                                  "label":  "Batch Processing Proforma Actions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tasks/Batch-Processing-Proforma-Actions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Proforma Tracking",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About Proforma Tracking",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tracking/About-Proforma-Tracking.md"
+                                              },
+                                              {
+                                                  "label":  "Tracking Proformas",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tracking/Tracking-Proformas.md"
+                                              },
+                                              {
+                                                  "label":  "Proforma Tracking Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Proforma-Tracking/Proforma-Tracking-Form-and-Field-Definitions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Collaboration",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About Collaborator List",
+                                                  "type":  "page",
+                                                  "path":  "docs/Collaboration/About-Collaborator-List.md"
+                                              },
+                                              {
+                                                  "label":  "Manage Proforma Collaborators",
+                                                  "type":  "page",
+                                                  "path":  "docs/Collaboration/Manage-Proforma-Collaborators.md"
+                                              },
+                                              {
+                                                  "label":  "Assign Co-owner to Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Collaboration/Assign-Co-owner-to-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Collaborator List Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Collaboration/Collaborator-List-Form-and-Field-Definitions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Attachments",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About Attachments",
+                                                  "type":  "page",
+                                                  "path":  "docs/Attachments/About-Attachments.md"
+                                              },
+                                              {
+                                                  "label":  "Add Attachment to Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Attachments/Add-Attachment-to-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Add Note to Proforma",
+                                                  "type":  "page",
+                                                  "path":  "docs/Attachments/Add-Note-to-Proforma.md"
+                                              },
+                                              {
+                                                  "label":  "Attachments Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Attachments/Attachments-Form-and-Field-Definitions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "WIP List",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About WIP List",
+                                                  "type":  "page",
+                                                  "path":  "docs/WIP-List/About-WIP-List.md"
+                                              },
+                                              {
+                                                  "label":  "Generate Proformas",
+                                                  "type":  "group",
+                                                  "children":  [
+                                                                   {
+                                                                       "label":  "About Proforma Generation",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/WIP-List/Generate-Proformas/About-Proforma-Generation.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Generate Proformas",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/WIP-List/Generate-Proformas/Generate-Proformas.md"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Proforma Generation Form and Field Definitions",
+                                                                       "type":  "page",
+                                                                       "path":  "docs/WIP-List/Generate-Proformas/Proforma-Generation-Form-and-Field-Definitions.md"
+                                                                   }
+                                                               ]
+                                              },
+                                              {
+                                                  "label":  "WIP List Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/WIP-List/WIP-List-Form-and-Field-Definitions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Archived Proformas",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "About Archived Proformas",
+                                                  "type":  "page",
+                                                  "path":  "docs/Archived-Proformas/About-Archived-Proformas.md"
+                                              },
+                                              {
+                                                  "label":  "Browse Archived Proformas",
+                                                  "type":  "page",
+                                                  "path":  "docs/Archived-Proformas/Browse-Archived-Proformas.md"
+                                              },
+                                              {
+                                                  "label":  "Archived Proformas Form and Field Definitions",
+                                                  "type":  "page",
+                                                  "path":  "docs/Archived-Proformas/Archived-Proformas-Form-and-Field-Definitions.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Overrides and System Options",
+                             "type":  "group",
+                             "children":  [
+                                              {
+                                                  "label":  "3E Proforma System Options",
+                                                  "type":  "page",
+                                                  "path":  "docs/Overrides-and-System-Options/3E-Proforma-System-Options.md"
+                                              },
+                                              {
+                                                  "label":  "3E Proforma Security System Options List",
+                                                  "type":  "page",
+                                                  "path":  "docs/Overrides-and-System-Options/3E-Proforma-Security-System-Options-List.md"
+                                              },
+                                              {
+                                                  "label":  "AI Overrides and System Options",
+                                                  "type":  "page",
+                                                  "path":  "docs/Overrides-and-System-Options/AI-Overrides-and-System-Options.md"
+                                              }
+                                          ]
+                         },
+                         {
+                             "label":  "Appendix A - Proforma Action Availability by Role",
+                             "type":  "page",
+                             "path":  "docs/Appendix-A---Proforma-Action-Availability-by-Role.md"
+                         },
+                         {
+                             "label":  "Glossary page portrait - Elite",
+                             "type":  "page",
+                             "path":  ""
+                         }
+                     ]
+    }
+]
