@@ -138,6 +138,10 @@ function Convert-TocEntry {
                 $kids.Add($converted)
             }
         }
+        if ($kids.Count -eq 0) {
+            Write-Warning "  '$label' group has no resolvable children -- skipping"
+            return $null
+        }
         return [ordered]@{
             label    = $label
             type     = "group"
