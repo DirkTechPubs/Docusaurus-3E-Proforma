@@ -86,8 +86,8 @@ function Resolve-DocPath {
     if ($Script:fileIndex.ContainsKey($key)) {
         return $Script:fileIndex[$key]
     }
-    Write-Warning "  No doc file matched for '$label'  (lookup key: '$key')"
-    return ""
+    Write-Warning "  No doc file matched for '$label'  (lookup key: '$key') -- entry skipped"
+    return $null
 }
 
 # --- Helper: derive a human-readable label from a Flare Link value ---
@@ -145,7 +145,11 @@ function Convert-TocEntry {
         }
     } elseif ($link) {
         # Page -- resolve the markdown file path from docs/
+        # If no matching file is found, skip this entry entirely
         $filePath = Resolve-DocPath $label
+        if ($null -eq $filePath) {
+            return $null
+        }
         return [ordered]@{
             label = $label
             type  = "page"

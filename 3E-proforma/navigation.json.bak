@@ -82,7 +82,31 @@
                                                                        "label":  "Lists",
                                                                        "type":  "group",
                                                                        "children":  [
-
+                                                                                        {
+                                                                                            "label":  "Navigating Lists in 3E Proforma",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "List View Types",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Grid Column Settings",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Group List Items",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Filter and Sort List Items",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
                                                                                     ]
                                                                    },
                                                                    {
@@ -104,7 +128,21 @@
                                                                        "label":  "AI Inquiry",
                                                                        "type":  "group",
                                                                        "children":  [
-
+                                                                                        {
+                                                                                            "label":  "Elite Intelligence",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Delegate Tasks with AI for Proforma",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "AI for Proforma - Stock Prompt Library",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
                                                                                     ]
                                                                    }
                                                                ]
@@ -218,6 +256,11 @@
                                                                        "path":  "docs/Proforma-Detail-View/Add-Costs/About-Add-Cost.md"
                                                                    },
                                                                    {
+                                                                       "label":  "Add Cost Card to Proforma",
+                                                                       "type":  "page",
+                                                                       "path":  ""
+                                                                   },
+                                                                   {
                                                                        "label":  "Add Cost Form and Field Definitions",
                                                                        "type":  "page",
                                                                        "path":  "docs/Proforma-Detail-View/Add-Costs/Add-Cost-Form-and-Field-Definitions.md"
@@ -262,7 +305,21 @@
                                                                        "label":  "Divide Entries",
                                                                        "type":  "group",
                                                                        "children":  [
-
+                                                                                        {
+                                                                                            "label":  "About Divide Cards",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Divide Cards",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Divide Card Form and Field Definitions",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
                                                                                     ]
                                                                    },
                                                                    {
@@ -353,7 +410,21 @@
                                                                        "label":  "Spell Check",
                                                                        "type":  "group",
                                                                        "children":  [
-
+                                                                                        {
+                                                                                            "label":  "About Spell Check",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Spell Check Proforma",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        },
+                                                                                        {
+                                                                                            "label":  "Spell Check Form and Field Definitions",
+                                                                                            "type":  "page",
+                                                                                            "path":  ""
+                                                                                        }
                                                                                     ]
                                                                    }
                                                                ]
@@ -572,6 +643,11 @@
                              "label":  "Appendix A - Proforma Action Availability by Role",
                              "type":  "page",
                              "path":  "docs/Appendix-A---Proforma-Action-Availability-by-Role.md"
+                         },
+                         {
+                             "label":  "Glossary page portrait - Elite",
+                             "type":  "page",
+                             "path":  ""
                          }
                      ]
     }
