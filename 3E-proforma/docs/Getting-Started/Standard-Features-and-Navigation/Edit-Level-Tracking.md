@@ -13,7 +13,7 @@ Before any edits the card shows the following:
 The timekeeper edits the proforma as shown in the following:\
 ![](/img/media/image60.png)
 
-**Note:** The edit text color is red.  In the [Narrative field](Card-Narrative-Fields.md#card-narrative-fields), edits are designated with a red triangle in the top left corner of the field. 
+>**Note:** The edit text color is red.  In the [Narrative field](Card-Narrative-Fields.md#card-narrative-fields), edits are designated with a red triangle in the top left corner of the field. 
 
 ![](/img/media/image61.png)
 
