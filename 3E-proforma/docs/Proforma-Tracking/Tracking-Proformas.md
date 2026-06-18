@@ -2,9 +2,9 @@
 
 Do the following to track proformas progressing through your firm's workflow process:
 
-<table style="width: 15%">
+<table style={{width: "15%"}}>
 <colgroup>
-<col style="width: 15%" />
+<col style={{width: "15%"}} />
 </colgroup>
 <tbody><tr><td><p><strong>Note</strong>: Authenticated users assigned the role <strong>3EProformaAdminRole</strong> in 3E can view cross-matter or firm-wide data. With this firm-wide tracking view, this user can search by timekeeper, client, matter, or individual proforma and see only data they are authorized to view. Unauthorized data is never exposed. Firm security and matter confidentiality rules are respected.</p><p>A user who is not assigned the role <strong>3EProformaAdminRole</strong> in 3E, and is a <em>Working As</em> a timekeeper who is an administrator, will only see the records where the <em>Working As</em> timekeeper is linked to the proforma (e.g., owner, co-owner, approver, editor).</p></td></tr></tbody>
 </table>

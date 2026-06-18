@@ -19,7 +19,7 @@ The table below describes the columns on the Collaboration Details section.
 | Complete | This column displays a check mark if the timekeeper has marked the proforma as complete. |
 | **Assignment date** | This column displays the date that the rights were assigned to the timekeeper. |
 | **Rights** | This column displays the rights assigned for each timekeeper for the proforma. The Owner ad [<u>Co-owner</u>](Assign-Co-owner-to-Proforma.md#assign-co-owner-to-proforma) are identified in this column. |
-| **Delete** <img src="/img/media/image113.png" style="width: 0.13542in; height: 0.13542in" /> | Click to remove a collaborator from the list. |
+| **Delete** <img src="/img/media/image113.png" style={{width: "0.13542in", height: "0.13542in"}} /> | Click to remove a collaborator from the list. |
 
  
 

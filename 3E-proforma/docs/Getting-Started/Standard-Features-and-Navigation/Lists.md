@@ -62,7 +62,7 @@ A variety of options are available to customize the columns in grid view. Grid c
 
 ##### *Access column Settings*
 
-To access column settings, hover the mouse pointer over a column header and click the **Grid Menu** icon <img src="/img/media/image36.png" style="width: 0.1875in; height: 0.14583in" /> .
+To access column settings, hover the mouse pointer over a column header and click the **Grid Menu** icon <img src="/img/media/image36.png" style={{width: "0.1875in", height: "0.14583in"}} /> .
 
 ![](/img/media/image44.png)
 ##### *Column Settings*
@@ -85,7 +85,7 @@ You can control the columns displayed by default in the grid by hiding selected 
 
 Do the following to remove grid columns from view:
 
-1.  Select the Grid Menu icon <img src="/img/media/image36.png" style="width: 0.1875in; height: 0.14583in" /> and then click the **Column Filter** icon <img src="/img/media/image35.png" style="width: 0.20833in; height: 0.1875in" /> .
+1.  Select the Grid Menu icon <img src="/img/media/image36.png" style={{width: "0.1875in", height: "0.14583in"}} /> and then click the **Column Filter** icon <img src="/img/media/image35.png" style={{width: "0.20833in", height: "0.1875in"}} /> .
 
 2.  Clear check boxes adjacent to columns to be hidden in the grid. Select the check box adjacent to the filter field to select all column check boxes.
 
@@ -96,7 +96,7 @@ Do the following to remove grid columns from view:
 
 Users can rearrange the grid columns to their liking.
 
-**Note**: Any changes to the grid layout will be automatically saved for that user.  To reset the grid back to the stock settings, choose the Reset Columns option after clicking the <img src="/img/media/image46.png" style="width: 0.25in; height: 0.20833in" /> button.
+**Note**: Any changes to the grid layout will be automatically saved for that user.  To reset the grid back to the stock settings, choose the Reset Columns option after clicking the <img src="/img/media/image46.png" style={{width: "0.25in", height: "0.20833in"}} /> button.
 
 ![](/img/media/image47.png)
 #### Group List Items
@@ -105,7 +105,7 @@ In Proforma Detail view, when looking at card entries, in [<u>Grid or Card view<
 
 ##### *Grouping*
 
-Click the **Grouping** icon <img src="/img/media/image34.png" style="width: 0.39583in; height: 0.39583in" /> to select and apply grouping criteria to the grid.
+Click the **Grouping** icon <img src="/img/media/image34.png" style={{width: "0.39583in", height: "0.39583in"}} /> to select and apply grouping criteria to the grid.
 
 **Note**: Group criteria may vary by card type.
 
@@ -117,7 +117,7 @@ Once the cards are grouped, each row will display the name of the grouping, a re
 ![](/img/media/image49.png)
 ##### *Grouped view - expanded*
 
-To see the cards within a grouping, click the down arrow <img src="/img/media/image50.png" style="width: 0.25in; height: 0.23958in" /> to expand the group. To collapse the group, click the up arrow <img src="/img/media/image51.png" style="width: 0.26042in; height: 0.30208in" /> of the expanded group.
+To see the cards within a grouping, click the down arrow <img src="/img/media/image50.png" style={{width: "0.25in", height: "0.23958in"}} /> to expand the group. To collapse the group, click the up arrow <img src="/img/media/image51.png" style={{width: "0.26042in", height: "0.30208in"}} /> of the expanded group.
 
 ![](/img/media/image52.png)
 #### Filter and Sort List Items
@@ -126,11 +126,11 @@ In addition to toggling list views and customizing column settings, filter and s
 
 ##### *Filter List*
 
-If you want to filter a list of cards, click the filter icon <img src="/img/media/image53.png" style="width: 0.33333in; height: 0.32292in" />, the filter sidebar displays. Available filter criteria will vary by tab (i.e., Fees, Costs, Charges, etc.). See [Filters](Filters.md#filters) for further details.
+If you want to filter a list of cards, click the filter icon <img src="/img/media/image53.png" style={{width: "0.33333in", height: "0.32292in"}} />, the filter sidebar displays. Available filter criteria will vary by tab (i.e., Fees, Costs, Charges, etc.). See [Filters](Filters.md#filters) for further details.
 
 ##### *Sort List*
 
-Select sort criteria from the **Sort** drop-down list. Sort criteria will vary by card tab. Click the **Sort** direction icon <img src="/img/media/image29.png" style="width: 0.20833in; height: 0.1875in" /> to sort the list in ascending or descending order.
+Select sort criteria from the **Sort** drop-down list. Sort criteria will vary by card tab. Click the **Sort** direction icon <img src="/img/media/image29.png" style={{width: "0.20833in", height: "0.1875in"}} /> to sort the list in ascending or descending order.
 
  
 

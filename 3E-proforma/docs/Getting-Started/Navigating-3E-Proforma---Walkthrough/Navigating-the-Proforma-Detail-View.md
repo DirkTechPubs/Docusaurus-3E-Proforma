@@ -15,11 +15,11 @@ The Proforma Details view is where you can view and make modifications to profor
 - Perform and group edit.
 
 ![](/img/media/image6.png)
-**Expand / Collapse Proforma Header Details** <img src="/img/media/image7.png" style="width: 0.26042in; height: 0.26042in" />
+**Expand / Collapse Proforma Header Details** <img src="/img/media/image7.png" style={{width: "0.26042in", height: "0.26042in"}} />
 
 Be default the Proforma Details view displays a single line of header details. Click the **Expand** arrow to display for all of the header fields. Click the **Collapse** arrow to close the expanded view.
 
-**Action Menus** <img src="/img/media/image8.png" style="width: 0.33333in; height: 0.3125in" />
+**Action Menus** <img src="/img/media/image8.png" style={{width: "0.33333in", height: "0.3125in"}} />
 
 Menus are available at both the proforma and card levels of the Proforma Detail view. Click the menus to access a list of functions to initiate.
 
