@@ -1,5 +1,31 @@
 ### **Tracking Proforma by Number**
 
 ![](/img/media/image112.png)
-<table style="width: 96%"><thead><tr><th><strong>Field Definitions</strong></th><th><strong>Descriptions</strong></th></tr></thead><tbody><tr><td colspan="2"><strong>Search Criteria</strong></td></tr><tr><td><strong>Track by</strong></td><td>Select <strong>Proforma #</strong> and type the number of a proforma to track.</td></tr><tr><td colspan="2"><strong>Details</strong></td></tr><tr><td><strong>Proforma Number</strong></td><td>Displays the proforma number.</td></tr><tr><td><strong>Total</strong></td><td>Displays the amount due.</td></tr><tr><td><strong>Current Steps</strong></td><td>Displays where the proforma is at the workflow process.</td></tr><tr><td><strong>Status badge</strong></td><td>Displays the proforma's current status.</td></tr><tr><td><strong>Owner</strong></td><td>Displays the proforma's assigned Owner timekeeper.</td></tr><tr><td><strong>Client</strong></td><td>Displays the name and number of the client associated with the proforma.</td></tr><tr><td><strong>Matter</strong></td><td>Displays the matter name and number.</td></tr><tr><td><strong>Progress</strong></td><td>Displays a tracking bar displaying a visual of the proforma's progress through the workflow.</td></tr><tr><td><strong>Activity</strong></td><td>Displays a date stamp of proforma activity (e.g., created, last viewed, etc.)</td></tr><tr><td colspan="2"><strong>Active History Tab</strong></td></tr><tr><td><strong>Modified Date</strong></td><td>Last date the step was accessed</td></tr><tr><td><strong>Step</strong></td><td>Name of workflow step</td></tr><tr><td><strong>Next Action</strong></td><td>Action triggered when this step was completed.</td></tr><tr><td><strong>Name</strong></td><td><p>Name of the user assigned to the step. This may show a role when a step is sent to a group of people assigned to a role.</p><p>When the step is accessed, the name of the person who opened the proforma at that step will appear here.</p><p>For example, if an approval is needed, this may initially display 3EProformaApprover. When one of the approvers open the proforma to review it, the step will update with their name.</p></td></tr><tr><td><strong>Role</strong></td><td>The role of the user as it applies to this proforma.</td></tr><tr><td><strong>Activity</strong></td><td>The status if the workflow step: NotStarted, InProgress, Completed</td></tr><tr><td colspan="2"><strong>Collaborators</strong></td></tr><tr><td><strong>Name</strong></td><td>Collaborator's name</td></tr><tr><td><strong>Role</strong></td><td>The role of the user as it applies to this proforma.</td></tr><tr><td><strong>Progress</strong></td><td><p>Collaborator's status</p><p>Completed = the collaborator has marked the proforma Complete</p><p>In Progress = proforma has been opened but not marked Complete</p><p>Not Started = the collaborator has not yet opened the proforma</p></td></tr><tr><td><strong>Assignment Date</strong></td><td>Date the collaborator was added to the proforma</td></tr><tr><td><strong>Last Activity</strong></td><td>Last date the collaborator viewed the proforma</td></tr></tbody></table>
+| <strong>Field Definitions</strong> | <strong>Descriptions</strong> |
+|---|---|
+| <strong>Search Criteria</strong> |  |
+| <strong>Track by</strong> | Select <strong>Proforma #</strong> and type the number of a proforma to track. |
+| <strong>Details</strong> |  |
+| <strong>Proforma Number</strong> | Displays the proforma number. |
+| <strong>Total</strong> | Displays the amount due. |
+| <strong>Current Steps</strong> | Displays where the proforma is at the workflow process. |
+| <strong>Status badge</strong> | Displays the proforma's current status. |
+| <strong>Owner</strong> | Displays the proforma's assigned Owner timekeeper. |
+| <strong>Client</strong> | Displays the name and number of the client associated with the proforma. |
+| <strong>Matter</strong> | Displays the matter name and number. |
+| <strong>Progress</strong> | Displays a tracking bar displaying a visual of the proforma's progress through the workflow. |
+| <strong>Activity</strong> | Displays a date stamp of proforma activity (e.g., created, last viewed, etc.) |
+| <strong>Active History Tab</strong> |  |
+| <strong>Modified Date</strong> | Last date the step was accessed |
+| <strong>Step</strong> | Name of workflow step |
+| <strong>Next Action</strong> | Action triggered when this step was completed. |
+| <strong>Name</strong> | Name of the user assigned to the step. This may show a role when a step is sent to a group of people assigned to a role.<br/>When the step is accessed, the name of the person who opened the proforma at that step will appear here.<br/>For example, if an approval is needed, this may initially display 3EProformaApprover. When one of the approvers open the proforma to review it, the step will update with their name. |
+| <strong>Role</strong> | The role of the user as it applies to this proforma. |
+| <strong>Activity</strong> | The status if the workflow step: NotStarted, InProgress, Completed |
+| <strong>Collaborators</strong> |  |
+| <strong>Name</strong> | Collaborator's name |
+| <strong>Role</strong> | The role of the user as it applies to this proforma. |
+| <strong>Progress</strong> | Collaborator's status<br/>Completed = the collaborator has marked the proforma Complete<br/>In Progress = proforma has been opened but not marked Complete<br/>Not Started = the collaborator has not yet opened the proforma |
+| <strong>Assignment Date</strong> | Date the collaborator was added to the proforma |
+| <strong>Last Activity</strong> | Last date the collaborator viewed the proforma |
 

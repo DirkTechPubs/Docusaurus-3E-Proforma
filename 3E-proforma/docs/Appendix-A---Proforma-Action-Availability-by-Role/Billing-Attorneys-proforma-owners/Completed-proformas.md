@@ -10,5 +10,9 @@ Proformas with the following statuses are available:
 
 The following actions are available depending on proforma status/sub-status:
 
-<table><thead><tr><th><strong>Action</strong></th><th><strong>Available with status/sub-status</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td><strong>Generate bill</strong></td><td>Urgent/Completed, Completed, Completed/Approved, Completed/Biller review</td><td><p>Select this action when you want to generate an invoice for the proforma.</p><p><strong>Note</strong>: Only the proforma owner with the appropriate rights can generate bills.</p></td></tr><tr><td><strong>Reclaim</strong></td><td>Urgent/Completed. Completed, Completed/Approved, Completed/Biller review</td><td>Select this action when you want to return a proforma back to the Needs review category after it was already submitted.</td></tr><tr><td><strong>Undefer</strong></td><td>Completed/Deferred</td><td><p>Select this action when you want to return a proforma back to the Needs review category after it was deferred.</p><p><strong>Note</strong>: Only the proforma owner can undefer a deferred proforma.</p></td></tr></tbody></table>
+| <strong>Action</strong> | <strong>Available with status/sub-status</strong> | <strong>Description</strong> |
+|---|---|---|
+| <strong>Generate bill</strong> | Urgent/Completed, Completed, Completed/Approved, Completed/Biller review | Select this action when you want to generate an invoice for the proforma.<br/><strong>Note</strong>: Only the proforma owner with the appropriate rights can generate bills. |
+| <strong>Reclaim</strong> | Urgent/Completed. Completed, Completed/Approved, Completed/Biller review | Select this action when you want to return a proforma back to the Needs review category after it was already submitted. |
+| <strong>Undefer</strong> | Completed/Deferred | Select this action when you want to return a proforma back to the Needs review category after it was deferred.<br/><strong>Note</strong>: Only the proforma owner can undefer a deferred proforma. |
 

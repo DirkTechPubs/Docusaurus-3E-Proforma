@@ -3,5 +3,14 @@
 The Adjustment tab is used to add Adjustment cards used to adjust the amount of the entire proforma total by an amount or a percent. Adjustment cards can also be edited and deleted.
 
 ![](/img/media/image82.png)
-<table style="width: 100%"><thead><tr><th><strong>Field Name</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td><strong>Add adjustment</strong></td><td>Click to create an adjustment for the proforma.</td></tr><tr><td><strong>Timekeeper</strong></td><td>Displays the name of the timekeeper whose fees have been adjusted.</td></tr><tr><td><strong>Start date</strong></td><td>Displays the start date for which time cards will be considered for the adjustment.</td></tr><tr><td><strong>End date</strong></td><td>Displays the end date for which time cards will be considered for the adjustment.</td></tr><tr><td><strong>Type</strong></td><td>Displays the apply adjustment type.</td></tr><tr><td><strong>Method</strong></td><td>Displays the how the adjustment is applied.</td></tr><tr><td><strong>Amount</strong></td><td>Displays the adjusted total.</td></tr><tr><td><strong>Action Menu</strong></td><td><p>Select one of the adjustment actions as needed.</p><ul><li><p><strong>Edit</strong> - Select to edit an adjustment.</p></li><li><p><strong>Delete</strong> - Select to delete an adjustment.</p></li></ul></td></tr></tbody></table>
+| <strong>Field Name</strong> | <strong>Description</strong> |
+|---|---|
+| <strong>Add adjustment</strong> | Click to create an adjustment for the proforma. |
+| <strong>Timekeeper</strong> | Displays the name of the timekeeper whose fees have been adjusted. |
+| <strong>Start date</strong> | Displays the start date for which time cards will be considered for the adjustment. |
+| <strong>End date</strong> | Displays the end date for which time cards will be considered for the adjustment. |
+| <strong>Type</strong> | Displays the apply adjustment type. |
+| <strong>Method</strong> | Displays the how the adjustment is applied. |
+| <strong>Amount</strong> | Displays the adjusted total. |
+| <strong>Action Menu</strong> | Select one of the adjustment actions as needed.<br/><strong>Edit</strong> - Select to edit an adjustment.<br/><strong>Delete</strong> - Select to delete an adjustment. |
 
