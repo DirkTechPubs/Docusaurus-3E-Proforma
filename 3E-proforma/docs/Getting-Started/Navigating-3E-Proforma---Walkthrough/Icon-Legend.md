@@ -2,7 +2,7 @@
 
 The following is a list of the most common icons used to access functions in 3E Proforma (e.g., filters and action menus, side menu icons?).
 
-| <strong>Icons</strong> | <strong>Name</strong> | <strong>Descriptions</strong> |
+| **Icons** | **Name** | **Descriptions** |
 |---|---|---|
 | <img src="/img/media/image22.png" style="width: 0.39583in; height: 0.38542in" /> | Filter | Click to access a list's filter panel and enter criteria to narrow the number of displayed items. |
 | <img src="/img/media/image23.png" style="width: 0.16667in; height: 0.16667in" /> | Expand Narrative | Click to expand a narrative field for editing. |
