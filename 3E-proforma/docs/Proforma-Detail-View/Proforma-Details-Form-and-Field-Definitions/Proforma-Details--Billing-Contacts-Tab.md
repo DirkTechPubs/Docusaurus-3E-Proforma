@@ -4,8 +4,7 @@ The Billing Contacts tab displays the information maintained in the **Matter Mai
 
 **Note**: The Billing Contacts tab can only display in Proforma Details view when the [**ProfDetails_Show_BillingContacts**](#1759202834)​ override system option is enabled (i.e., set to True).
 
-<img src="/img/media/image87.png" style="width: 6.5in; height: 1.39583in" />
-
+![](/img/media/image87.png)
 | **Field Name** | **Descriptions** |
 |----|----|
 | **Salutation** | Displays billing contact salutation (e.g., Mr., Mrs., etc.) |

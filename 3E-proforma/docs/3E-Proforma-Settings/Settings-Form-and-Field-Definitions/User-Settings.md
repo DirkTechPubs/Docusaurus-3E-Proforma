@@ -4,8 +4,7 @@ The User settings tab is used to configure user-specific defaults.
 
 **Note**: User Settings take precedence over Firm Settings.
 
-<img src="/img/media/image65.png" style="width: 6.5in; height: 3.21875in" />
-
+![](/img/media/image65.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

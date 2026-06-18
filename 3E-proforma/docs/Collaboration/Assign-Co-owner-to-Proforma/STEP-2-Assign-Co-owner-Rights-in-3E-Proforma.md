@@ -16,5 +16,4 @@ Do the following to give a collaborator co-owner rights for a proforma:
 
 3.  Click **Save**.
 
-<img src="/img/media/image115.png" style="width: 6.15625in; height: 2.32292in" />
-
+![](/img/media/image115.png)

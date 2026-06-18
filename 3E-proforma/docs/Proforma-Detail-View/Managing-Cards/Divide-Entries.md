@@ -46,8 +46,7 @@ This form is used to generate divided cards (e.g., Time or Costs) that can be mo
 
  
 
-<img src="/img/media/image96.png" style="width: 5.85417in; height: 6.17708in" />
-
+![](/img/media/image96.png)
 ##### *Time Divide Form and Field Definitions*
 
 Fields preceded with an asterisk in the table below are required.

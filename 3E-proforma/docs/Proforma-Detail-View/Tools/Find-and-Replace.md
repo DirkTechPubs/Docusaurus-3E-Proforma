@@ -8,8 +8,7 @@ Do the following to search and replace words or phrases throughout the proforma.
 
 3.  Select (or deselect) the check box(es) for the tabs that you want to search. All tabs are selected by default.
 
-<img src="/img/media/image104.png" style="width: 6.15625in; height: 4.32292in" />
-
+![](/img/media/image104.png)
 4.  Enter the word or phrase you are searching for in the **Find** text box.
 
 5.  Click the **Find** button. All results are displayed in the text box below.

@@ -18,7 +18,6 @@ Do one of the following to designate a default co-owner in 3E:
 
 - **Matter, Client, or Timekeeper process**: Navigate to the **Effective Dated Information** child form of either the Matter, Client, or Timekeeper process and specify the user in the **3E Proforma Co-owner** field.
 
-<img src="/img/media/image114.png" style="width: 6.15625in; height: 2.98958in" />
-
+![](/img/media/image114.png)
 - **Proforma Generation**: Go to the Proforma Generation process and specify the user in the **Assign Co-owner** field.
 

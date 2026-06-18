@@ -4,8 +4,7 @@ The Payors tab displays information about the matter's payor(s), including multi
 
 **Note**: The Payors tab only displays when the 3E system option [**<u>Allow WF_Prof_Edit_Payor</u>**](../../Overrides-and-System-Options/3E-Proforma-Security-System-Options-List.md) is set to **View**. Additionally, information displayed in the Payors grid is read-only.
 
-<img src="/img/media/image86.png" style="width: 6.5in; height: 1.48958in" />
-
+![](/img/media/image86.png)
 | **Field Name** | **Descriptions** |
 |----|----|
 | **Payor Number** | Displays the payor's number. |

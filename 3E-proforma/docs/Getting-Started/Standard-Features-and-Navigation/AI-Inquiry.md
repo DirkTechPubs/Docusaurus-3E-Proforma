@@ -36,10 +36,7 @@ In addition to accessing information on matter details to assist with billing an
 
 **Note**: Elite Intelligence requires 3E Cloud.
 
-<img src="/img/media/image62.png" style="width: 6.5in; height: 4.30208in" />
-
- 
-
+![](/img/media/image62.png)
 #### Delegate Tasks with AI for Proforma
 
 You can instruct AI for Proforma to execute tasks such as filtering, sorting, submitting, and tracking, reducing manual intervention and improving productivity. In cases where multiple records will be affected, 3E Proforma will provide a list of records that will be changed, enabling you to de-select any items they do not want to impact before taking the action. See a list of [<u>common actions</u>](#available-actions) available for delegation below.
@@ -62,8 +59,7 @@ Do the following to delegate tasks with AI for Proforma:
 
  
 
-<img src="/img/media/image63.png" style="width: 6.5in; height: 4.20833in" />
-
+![](/img/media/image63.png)
 ##### *Available Actions*
 
 Actions available for you to delegate to the AI are restricted by your 3E role security and the 3E Proforma Security system options. Available actions (e.g., approve, close, or filter) vary by page view (e.g., Proforma List and Proforma Detail). See the following table for actions available by page view.
@@ -108,5 +104,4 @@ AI for 3E Proforma comes with a list of pre-defined stock prompts for frequently
 
 To access the library, after opening the AI Inquiry window, click **Elite Intelligence** and select **Library**. Select a listed prompt and click **Send**.
 
-<img src="/img/media/image64.png" style="width: 6.5in; height: 3.75in" />
-
+![](/img/media/image64.png)

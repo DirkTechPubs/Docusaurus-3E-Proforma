@@ -2,8 +2,7 @@
 
 The Collaborator list displays a list of timekeepers working on a proforma.
 
-<img src="/img/media/image118.png" style="width: 6.5in; height: 2.30208in" />
-
+![](/img/media/image118.png)
 The table below describes the columns on the Collaboration Details section.
 
 | **Field Name** | **Description** |

@@ -4,16 +4,13 @@ The Funds tab will display sub-tabs for each type of funds, trust funds and unal
 
 **Trust Tab**
 
-<img src="/img/media/image83.png" style="width: 6.5in; height: 2.69792in" />
-
+![](/img/media/image83.png)
 **Unallocated BOA**
 
-<img src="/img/media/image84.png" style="width: 6.5in; height: 2.13542in" />
-
+![](/img/media/image84.png)
 **Unallocated Credit Tab**
 
-<img src="/img/media/image85.png" style="width: 6.5in; height: 3.04167in" />
-
+![](/img/media/image85.png)
 <table style="width: 100%">
 <colgroup>
 <col style="width: 19%" />

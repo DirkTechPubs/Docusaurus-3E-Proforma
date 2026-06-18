@@ -14,8 +14,7 @@ Lists (e.g., proformas and card entries) in 3E Proforma can be viewed using two 
 
 You can switch between list view types by clicking the Grid view or Card view icons on the list's Action toolbar.
 
-<img src="/img/media/image40.png" style="width: 6.5in; height: 2.95833in" />
-
+![](/img/media/image40.png)
 ##### *Proforma List - Card vs Grid View*
 
 The following information details the difference between the Proforma List card and grid views:
@@ -26,16 +25,14 @@ The following information details the difference between the Proforma List card 
 
  
 
-<img src="/img/media/image41.png" style="width: 6.15625in; height: 2.30208in" />
-
+![](/img/media/image41.png)
 **Opened Status** - Unopened (i.e., unread) proformas are indicated with a purple border in Card view. Once a proforma has been opened, the purple boarder no longer displays.
 
 - **Grid View** - In the Proforma List, grid view displays proformas in a compact tabular format. This allows for viewing more records on the screen at one time. Columns can be resized, rearranged, added and removed. See [Grid Column Settings](#grid-column-settings) for further details.
 
 To access Proforma Details, double-click the row of a proforma in the grid view.
 
-<img src="/img/media/image42.png" style="width: 6.15625in; height: 1.88542in" />
-
+![](/img/media/image42.png)
 **Opened Status** - Unopened (i.e., unread) proformas are indicated with a purple dot next to the proforma number in Grid view. Once a proforma has been opened, the Unopened icon no longer displays.
 
 ##### *Proforma Details View - Card vs. Grid View* 
@@ -48,10 +45,7 @@ Details on the sub-tabs of the Proforma Detail view (e.g., Fees, Costs, and Adju
 
 - **Card view** - Displays cards in a form allowing for easier editing of details.
 
-<img src="/img/media/image43.png" style="width: 6.15625in; height: 2in" />
-
- 
-
+![](/img/media/image43.png)
 #### Grid Column Settings
 
 A variety of options are available to customize the columns in grid view. Grid column settings include the following:
@@ -70,8 +64,7 @@ A variety of options are available to customize the columns in grid view. Grid c
 
 To access column settings, hover the mouse pointer over a column header and click the **Grid Menu** icon <img src="/img/media/image36.png" style="width: 0.1875in; height: 0.14583in" /> .
 
-<img src="/img/media/image44.png" style="width: 6.15625in; height: 3.38542in" />
-
+![](/img/media/image44.png)
 ##### *Column Settings*
 
 Available column settings include the following:
@@ -98,16 +91,14 @@ Do the following to remove grid columns from view:
 
 **Note** : Type filter criteria to narrow the columns to display in the list.
 
-<img src="/img/media/image45.png" style="width: 6.15625in; height: 4.66667in" />
-
+![](/img/media/image45.png)
 ##### *Move Grid Columns*
 
 Users can rearrange the grid columns to their liking.
 
 **Note**: Any changes to the grid layout will be automatically saved for that user.  To reset the grid back to the stock settings, choose the Reset Columns option after clicking the <img src="/img/media/image46.png" style="width: 0.25in; height: 0.20833in" /> button.
 
-<img src="/img/media/image47.png" style="width: 6.15625in; height: 1.60417in" />
-
+![](/img/media/image47.png)
 #### Group List Items
 
 In Proforma Detail view, when looking at card entries, in [<u>Grid or Card view</u>](#list-view-types), you can group listed cards based on selected criteria (e.g., timekeeper, date, or time type).
@@ -118,22 +109,17 @@ Click the **Grouping** icon <img src="/img/media/image34.png" style="width: 0.39
 
 **Note**: Group criteria may vary by card type.
 
-<img src="/img/media/image48.png" style="width: 6.5in; height: 2.36458in" />
-
+![](/img/media/image48.png)
 ##### *Grouped view*
 
 Once the cards are grouped, each row will display the name of the grouping, a record count of the number of cards for that grouping, and sub-totals for that grouping. For Fees, the sub-totals are hours worked vs. billed, original fees vs. billed, average rate worked vs. billed, and estimated fee realization.
 
-<img src="/img/media/image49.png" style="width: 6.5in; height: 1.6875in" />
-
+![](/img/media/image49.png)
 ##### *Grouped view - expanded*
 
 To see the cards within a grouping, click the down arrow <img src="/img/media/image50.png" style="width: 0.25in; height: 0.23958in" /> to expand the group. To collapse the group, click the up arrow <img src="/img/media/image51.png" style="width: 0.26042in; height: 0.30208in" /> of the expanded group.
 
-<img src="/img/media/image52.png" style="width: 6.5in; height: 2.34375in" />
-
- 
-
+![](/img/media/image52.png)
 #### Filter and Sort List Items
 
 In addition to toggling list views and customizing column settings, filter and sort options are available in lists to help you quickly locate proformas or card entries.

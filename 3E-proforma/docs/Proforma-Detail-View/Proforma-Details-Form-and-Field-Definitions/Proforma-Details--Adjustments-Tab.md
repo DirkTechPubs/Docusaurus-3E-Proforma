@@ -2,8 +2,7 @@
 
 The Adjustment tab is used to add Adjustment cards used to adjust the amount of the entire proforma total by an amount or a percent. Adjustment cards can also be edited and deleted.
 
-<img src="/img/media/image82.png" style="width: 6.5in; height: 1.53125in" />
-
+![](/img/media/image82.png)
 <table style="width: 100%">
 <colgroup>
 <col style="width: 19%" />

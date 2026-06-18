@@ -2,8 +2,7 @@
 
 The **Attachments** form is used to attach a document or add a note to a proforma. This option is accessed in the Proforma Details view.
 
-<img src="/img/media/image119.png" style="width: 5.41667in; height: 5.08333in" />
-
+![](/img/media/image119.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

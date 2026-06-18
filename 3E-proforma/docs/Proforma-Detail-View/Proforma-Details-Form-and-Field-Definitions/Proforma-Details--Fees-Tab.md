@@ -6,8 +6,7 @@ The Fees tab on proforma details is selected by default and displays timecards. 
 
 **Note***:* Timekeepers who are granted **Edit** rights to a proforma can view and edit only their timecards. When the proforma has been opened by another user first, the users with Edit rights have only **ReadOnly** access to the proforma and can view only their timecards.
 
-<img src="/img/media/image77.png" style="width: 6.5in; height: 2.6875in" />
-
+![](/img/media/image77.png)
 <table style="width: 100%">
 <colgroup>
 <col style="width: 19%" />

@@ -26,8 +26,7 @@ Do the following to spell check proforma detail:
 
 The spell check tool is used to scan proforma detail for spelling errors.
 
-<img src="/img/media/image105.png" style="width: 6.5in; height: 4.88542in" />
-
+![](/img/media/image105.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

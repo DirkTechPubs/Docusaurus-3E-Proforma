@@ -12,8 +12,7 @@ The actions that can be performed in the Proformas List depend on the role of th
 
 Some proformas in a category have both a status and a sub-status.
 
-<img src="/img/media/image126.png" style="width: 6.5in; height: 2.13542in" />
-
+![](/img/media/image126.png)
 In the example above, the proforma’s status is **Completed**, and the sub-status is **Biller Review**.
 
 This section describes the categories, statuses, sub-statuses, and actions available to users according to the roles of the current user.

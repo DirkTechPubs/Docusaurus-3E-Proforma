@@ -1,7 +1,6 @@
 ### **Tracking Proformas by Client, Matter, or Timekeeper**
 
-<img src="/img/media/image111.png" style="width: 6.5in; height: 3.60417in" />
-
+![](/img/media/image111.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

@@ -18,7 +18,4 @@ Do the following to write off fees or costs:
 
 **Note**: Administrators can use the 3E System Option in the 3EProforma group named **3EProformaWriteOffType** to define “Write Off”.  There are 3 available options, which can be set at the Firm level: Billable Purge, No Charge, and Write Down. The default value is **Billable Purge**.
 
-<img src="/img/media/image99.png" style="width: 6.5in; height: 3.13542in" />
-
- 
-
+![](/img/media/image99.png)

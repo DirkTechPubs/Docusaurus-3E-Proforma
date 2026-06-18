@@ -8,8 +8,7 @@ The Global toolbar displays always at the top of the 3E Proforma app, in both th
 
 - Resource Center
 
-<img src="/img/media/image20.png" style="width: 6.5in; height: 1.9375in" />
-
+![](/img/media/image20.png)
 #### Working As
 
 The **Working as** field displays who the logged-in user is working as. By default, the “Working as” timekeeper is the default timekeeper as designated in the User / Role Management setup in 3E. You can switch between the timekeepers you are “working as” based on the timekeepers mapped to you in 3E User / Role Management.

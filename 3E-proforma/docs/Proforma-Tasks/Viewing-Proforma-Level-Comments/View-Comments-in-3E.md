@@ -8,7 +8,4 @@ Proforma level comments are visible to the biller in 3E via the Comments icon.
 
 3.  Click **Close** to exit the comments pop-up.
 
-<img src="/img/media/image107.png" style="width: 5.16667in; height: 3.45833in" />
-
- 
-
+![](/img/media/image107.png)

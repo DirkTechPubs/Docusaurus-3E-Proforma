@@ -4,8 +4,7 @@ Use the settings on the Firm Settings tab to configure firm-wide defaults.
 
 **Note**: The **Firm Settings** tab is only viewable by users that have the **3EProformaAdminRole** assigned to their user in 3E.
 
-<img src="/img/media/image66.png" style="width: 6.5in; height: 2.96875in" />
-
+![](/img/media/image66.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

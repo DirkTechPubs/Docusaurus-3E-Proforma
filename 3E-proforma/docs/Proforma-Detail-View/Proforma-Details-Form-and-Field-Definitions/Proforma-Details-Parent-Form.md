@@ -2,8 +2,7 @@
 
 **Note**: Depending on the proforma status and the user’s role on the proforma, the most relevant proforma action button is displayed. For example, for an approver, the **Approve** button is displayed).
 
-<img src="/img/media/image70.png" style="width: 6.5in; height: 3.72917in" />
-
+![](/img/media/image70.png)
 <table style="width: 100%">
 <colgroup>
 <col style="width: 19%" />

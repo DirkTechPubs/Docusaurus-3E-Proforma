@@ -2,10 +2,7 @@
 
 The options on this form are used to create an adjustment entry.
 
-<img src="/img/media/image100.png" style="width: 6.5in; height: 4.66667in" />
-
- 
-
+![](/img/media/image100.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

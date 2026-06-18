@@ -6,8 +6,7 @@ Click the **Charges** tab to display any charges on the proforma, such as calcul
 
  
 
-<img src="/img/media/image81.png" style="width: 6.5in; height: 1.53125in" />
-
+![](/img/media/image81.png)
 The table below describes the attributes of the charge card:
 
 <table style="width: 100%">

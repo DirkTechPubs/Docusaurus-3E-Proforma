@@ -2,8 +2,7 @@
 
 Use the Add Cost form to add a cost entry to a proforma.
 
-<img src="/img/media/image93.png" style="width: 5.83333in; height: 4.91667in" />
-
+![](/img/media/image93.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

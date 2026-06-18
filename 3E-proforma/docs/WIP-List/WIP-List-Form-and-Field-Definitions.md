@@ -2,8 +2,7 @@
 
 The WIP list displays a list of Matters for which you are the assigned Billing Attorney, or you are working as the assigned Billing Attorney, and where the Matters have work-in-progress (WIP).
 
-<img src="/img/media/image124.png" style="width: 6.5in; height: 3.60417in" />
-
+![](/img/media/image124.png)
 **Note**: See [Navigating the Proforma List](../Getting-Started/Navigating-3E-Proforma---Walkthrough.md#navigating-3e-proforma---walkthrough) for information on using the **Search** and **Sort** fields.
 
 <table style="width: 100%">

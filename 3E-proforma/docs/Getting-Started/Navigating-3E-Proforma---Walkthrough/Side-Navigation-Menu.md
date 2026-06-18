@@ -2,8 +2,7 @@
 
 The navigation bar on the left side of the screen contains the different views and menus that are available in 3E Proforma.
 
-<img src="/img/media/image9.png" style="width: 6.5in; height: 7.89583in" />
-
+![](/img/media/image9.png)
 **Toggle Navigation Menu View**
 
 Click on the **Toggle Navigation Menu** icon <img src="/img/media/image10.png" style="width: 0.23958in; height: 0.21875in" /> to expand the toolbar to a menu with labels.

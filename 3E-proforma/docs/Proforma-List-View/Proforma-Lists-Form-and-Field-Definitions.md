@@ -4,8 +4,7 @@ The **Proforma List** view consists of the following. Available options (e.g., l
 
 **Note**: The list may display proformas in [<u>Card or List view</u>](../Getting-Started/Standard-Features-and-Navigation/Lists.md#list-view-types). The default view is determined by the [<u>3E Proforma settings</u>](../3E-Proforma-Settings.md#3e-proforma-settings).
 
-<img src="/img/media/image68.png" style="width: 6.5in; height: 3.71875in" />
-
+![](/img/media/image68.png)
 <table style="width: 100%">
 <colgroup>
 <col style="width: 19%" />

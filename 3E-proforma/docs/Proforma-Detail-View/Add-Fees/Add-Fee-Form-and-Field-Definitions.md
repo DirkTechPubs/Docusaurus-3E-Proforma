@@ -2,8 +2,7 @@
 
 The Add Fee form is used to add a fee entry to a proforma.
 
-<img src="/img/media/image91.png" style="width: 5.83333in; height: 4.91667in" />
-
+![](/img/media/image91.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

@@ -1,7 +1,6 @@
 ### **Tracking Proforma by Number**
 
-<img src="/img/media/image112.png" style="width: 6.5in; height: 3.60417in" />
-
+![](/img/media/image112.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

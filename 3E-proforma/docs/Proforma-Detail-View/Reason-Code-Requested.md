@@ -24,5 +24,4 @@ Do the following when prompted for a reason code:
 
  
 
-<img src="/img/media/image88.png" style="width: 5.58333in; height: 3.21875in" />
-
+![](/img/media/image88.png)

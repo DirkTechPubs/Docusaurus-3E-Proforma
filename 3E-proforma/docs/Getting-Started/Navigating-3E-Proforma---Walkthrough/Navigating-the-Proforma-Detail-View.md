@@ -14,8 +14,7 @@ The Proforma Details view is where you can view and make modifications to profor
 
 - Perform and group edit.
 
-<img src="/img/media/image6.png" style="width: 6.5in; height: 3.76042in" />
-
+![](/img/media/image6.png)
 **Expand / Collapse Proforma Header Details** <img src="/img/media/image7.png" style="width: 0.26042in; height: 0.26042in" />
 
 Be default the Proforma Details view displays a single line of header details. Click the **Expand** arrow to display for all of the header fields. Click the **Collapse** arrow to close the expanded view.

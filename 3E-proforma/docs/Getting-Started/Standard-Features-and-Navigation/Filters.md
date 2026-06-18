@@ -14,8 +14,7 @@ Proformas and cards are displayed in lists and grids in 3E Proforma. Filters are
 
 Click the Filter icon where available, the filter panel will display.
 
-<img src="/img/media/image38.png" style="width: 5.66667in; height: 2.02083in" />
-
+![](/img/media/image38.png)
 #### Specifying and Applying filter criteria 
 
 Select criteria such as specifying specific client names or matter numbers to include in a list. Additionally, you can filter list based on numerical values. Click **Apply** to save your filter criteria. The applied criteria, displays at the top of the Filter panel.
@@ -32,8 +31,7 @@ Do one of the following to clear filters:
 
 - **Remove specific criteria** - Click the **X** on a specific criteria badge displayed at the top of the filter panel.
 
-<img src="/img/media/image39.png" style="width: 6.15625in; height: 6.22917in" />
-
+![](/img/media/image39.png)
 #### Filter Criteria
 
 The list of proformas can be filtered by the following criteria:

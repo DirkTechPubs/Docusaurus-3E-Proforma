@@ -4,8 +4,7 @@ The Cost tab shows cost card details such as the timekeeper, amount, quantity, a
 
 **Note** Timekeepers who are granted **Edit** rights to a proforma can view and edit only their cost cards. When the proforma has been opened by another user first, the users with Edit rights have only **Read** access to the proforma and can view only their cost cards.
 
-<img src="/img/media/image80.png" style="width: 6.5in; height: 2.60417in" />
-
+![](/img/media/image80.png)
 <table style="width: 100%">
 <colgroup>
 <col style="width: 19%" />

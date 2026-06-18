@@ -4,8 +4,7 @@ This tab provides a read-only view of 3E Override / System Option settings that 
 
 **Note**: The **System Options** tab is only viewable by users that have the **3EProformaAdminRole** assigned to their user in 3E.
 
-<img src="/img/media/image67.png" style="width: 6.5in; height: 4.02083in" />
-
+![](/img/media/image67.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

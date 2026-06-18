@@ -50,5 +50,4 @@ The report may be launched in a new browser tab for side-by-side viewing by clic
 
 - Users must have a PowerBI/Data Insights license to view the Financials tab.  If the user does not have a license, they will receive a warning message.
 
-<img src="/img/media/image76.png" style="width: 6.15625in; height: 3.91667in" />
-
+![](/img/media/image76.png)

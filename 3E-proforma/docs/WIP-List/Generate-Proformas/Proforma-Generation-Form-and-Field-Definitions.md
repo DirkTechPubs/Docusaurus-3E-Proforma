@@ -2,8 +2,7 @@
 
 The Proforma Generation form is used to configure settings for creating proformas for matters in the [<u>WIP list</u>](../WIP-List-Form-and-Field-Definitions.md#wip-list-form-and-field-definitions). This form is accessed when the Generation action is initiated from the WIP List for one or more listed matters.
 
-<img src="/img/media/image123.png" style="width: 6.5in; height: 3.375in" />
-
+![](/img/media/image123.png)
 <table style="width: 96%">
 <colgroup>
 <col style="width: 30%" />

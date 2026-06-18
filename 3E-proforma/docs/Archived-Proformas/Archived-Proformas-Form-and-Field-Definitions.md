@@ -2,10 +2,7 @@
 
 The Archived Proformas List view displays all proformas that have been archived in the current and prior periods.
 
-<img src="/img/media/image125.png" style="width: 6.5in; height: 3.60417in" />
-
- 
-
+![](/img/media/image125.png)
 | **Field Name** | **Description** |
 |----|----|
 | **Select** | Select this check box to flag a proforma for an action (e.g., Bill Preview or Edit History) |

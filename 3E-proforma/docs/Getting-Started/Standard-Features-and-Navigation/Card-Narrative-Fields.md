@@ -4,26 +4,22 @@ Card details include a narrative field to display descriptive detail for a card.
 
 #### Card View
 
-<img src="/img/media/image55.png" style="width: 6.5in; height: 1.71875in" />
-
+![](/img/media/image55.png)
 #### Grid View
 
-<img src="/img/media/image56.png" style="width: 6.5in; height: 2.4375in" />
-
+![](/img/media/image56.png)
 #### View Edit History
 
 Hover the mouse over the field to view the last change made to the field. This enables you to review the last change and who made it.
 
 The *Last Change* value will be updated by the **Save & Recalc** or **Save & Close** actions.
 
-<img src="/img/media/image57.png" style="width: 6.5in; height: 1.39583in" />
-
+![](/img/media/image57.png)
 #### Narrative Form
 
 The Narrative displays the original narrative from 3E and current narrative field text. Edit the narrative by clicking directly in the field and making changes.  To format the text, select one or more words to access the Formatting toolbar.
 
-<img src="/img/media/image58.png" style="width: 6.5in; height: 4.20833in" />
-
+![](/img/media/image58.png)
 The Original narrative field will display all changes between the original and current narratives.
 
 You can update the Current narrative field in this window. Click **Save** to save changes typed in the Current Narrative field and close the pop-up. Click **Cancel** to discard unsaved changes typed in the Current Narrative field and close the pop-up.

@@ -12,7 +12,6 @@ To view edit history at the proforma level:
 
 4.  To see a specific editor’s changes for a specific date/time, click that editor’s name.
 
-<img src="/img/media/image103.png" style="width: 2.55208in; height: 2.32292in" />
-
+![](/img/media/image103.png)
 **Note**: The first name displayed is the “Working As” timekeeper, the Authenticated User is the user that was logged into 3E Proforma. The date/time is displayed in your time zone as defined on your user record in 3E.
 
