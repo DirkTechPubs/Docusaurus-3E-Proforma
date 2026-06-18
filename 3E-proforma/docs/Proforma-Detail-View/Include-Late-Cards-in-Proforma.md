@@ -8,7 +8,7 @@ Late cards are defined as time, costs, or charge cards that were entered after a
 
 When there are late cards for a matter, a notification will display at the top of the screen when the Proforma Details view is accessed.
 
-<img src="/img/media/image101.png" style={{width: "4.4375in", height: "0.78125in"}} />
+<img src="/img/media/image101.png" style="width: 4.4375in; height: 0.78125in" />
 
 Do the following to review the information and decide if any of the cards should be included in the current proforma:
 
@@ -16,7 +16,7 @@ Do the following to review the information and decide if any of the cards should
 
 2.  Use the filters at the top of the Review late Cards window to view the late cards by type.  The cards can also be filtered by timekeeper using the timekeeper drop down list.
 
-<img src="/img/media/image102.png" style={{width: "6.15625in", height: "2.98958in"}} />
+<img src="/img/media/image102.png" style="width: 6.15625in; height: 2.98958in" />
 
 3.  To add the cards to the current proforma, select the box next to the cards to include
 

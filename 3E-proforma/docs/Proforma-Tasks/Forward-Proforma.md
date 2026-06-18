@@ -12,7 +12,7 @@ Do the following forward a proforma:
 
 **Note:** If a user who has the proforma opened, and therefore locked, forwards the proforma while in Proforma Detail view, any unsaved changes are automatically saved. In any other cases the changes are not saved.
 
-<img src="/img/media/image108.png" style={{width: "6.15625in", height: "2.17708in"}} />
+<img src="/img/media/image108.png" style="width: 6.15625in; height: 2.17708in" />
 
 2.  Click the **Add recipient** button.
 

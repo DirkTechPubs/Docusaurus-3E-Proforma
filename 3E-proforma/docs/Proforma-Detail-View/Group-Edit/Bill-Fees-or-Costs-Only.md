@@ -18,7 +18,7 @@ Do the following to exclude certain card types from the proforma:
 
 **Note**: An *Exclude* badge displays on excluded cards. If a user manually removes the exclude status from one or more cards by clicking the **X** on the Exclude badge, the other cards will still be excluded, but the **Bill Fees Only** or **Bill Costs Only** check box will be deselected.
 
-<img src="/img/media/image98.png" style={{width: "6.5in", height: "3.5in"}} />
+<img src="/img/media/image98.png" style="width: 6.5in; height: 3.5in" />
 
  
 

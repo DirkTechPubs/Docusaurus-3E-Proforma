@@ -12,7 +12,7 @@ Do the following to add a fee card to a proforma:
 
 5.  Click **Add Fee** to save changes and exit the pop-up. The new card will be added to the list on the **Fee** tab.
 
-<img src="/img/media/image90.png" style={{width: "6.15625in", height: "5.1875in"}} />
+<img src="/img/media/image90.png" style="width: 6.15625in; height: 5.1875in" />
 
  
 

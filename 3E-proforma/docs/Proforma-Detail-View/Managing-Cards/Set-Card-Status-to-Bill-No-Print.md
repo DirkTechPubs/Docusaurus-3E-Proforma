@@ -16,5 +16,5 @@ Do the following to set a card's status to Bill no print (BNP).
 
 5.  Click **Save & recalc**.
 
-<img src="/img/media/image94.png" style={{width: "6.02083in", height: "3.125in"}} />
+<img src="/img/media/image94.png" style="width: 6.02083in; height: 3.125in" />
 

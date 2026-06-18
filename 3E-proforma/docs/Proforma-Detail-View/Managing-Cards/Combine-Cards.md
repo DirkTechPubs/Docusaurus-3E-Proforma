@@ -16,7 +16,7 @@ Do the following to combine selected cards into a new cart.
 
 6.  Select attributes to apply in the card resulting from the combining.
 
-<img src="/img/media/image95.png" style={{width: "6.15625in", height: "2.59375in"}} />
+<img src="/img/media/image95.png" style="width: 6.15625in; height: 2.59375in" />
 
 7.  Click **Combine**.
 

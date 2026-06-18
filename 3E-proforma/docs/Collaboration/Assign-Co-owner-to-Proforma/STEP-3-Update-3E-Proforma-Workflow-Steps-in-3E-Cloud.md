@@ -42,11 +42,11 @@ Do the following to update the workflow steps listed above:
 
 2.  For the Start Workflow step, in the **Routing for Next Workflow Step** section, choose **3E Proforma – Owner, Co-Owner, and Editor** for the Collaboration \> Dynamic Route.
 
-<img src="/img/media/image116.png" style={{width: "6.15625in", height: "3.05208in"}} />
+<img src="/img/media/image116.png" style="width: 6.15625in; height: 3.05208in" />
 
 3.  For rules sets that require email routing (e.g., Bill write down approval), click the step's **Workflow Notifications** child form tab.
 
 4.  In the **Dynamic address** column choose the routing that corresponds to who the Proforma Owner (e.g., Billing Timekeeper).
 
-<img src="/img/media/image117.png" style={{width: "6.15625in", height: "3.02083in"}} />
+<img src="/img/media/image117.png" style="width: 6.15625in; height: 3.02083in" />
 

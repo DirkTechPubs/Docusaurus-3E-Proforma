@@ -22,7 +22,7 @@ The actions that can be performed in the Proformas List depend on the role of th
 
 Some proformas in a category have both a status and a sub-status.
 
-<img src="/img/media/image4.png" style={{width: "1.78125in", height: "0.60417in"}} />
+<img src="/img/media/image4.png" style="width: 1.78125in; height: 0.60417in" />
 
 In the example above, the proforma’s status is **Approval pending**, and the sub-status is **Completed**.
 
@@ -54,5 +54,5 @@ You can sort the list by criteria such as client name, fees, and costs. Addition
 
 A paging bar at the bottom of the list enables you to move forwards or backwards in a multi-page list of proformas. You specify a specific page to jump to and control how many proformas display per page. On long pages, you have the option to quickly jump back to the top of the page.
 
-<img src="/img/media/image5.png" style={{width: "6.5in", height: "1.76042in"}} />
+<img src="/img/media/image5.png" style="width: 6.5in; height: 1.76042in" />
 

@@ -36,7 +36,7 @@ In addition to accessing information on matter details to assist with billing an
 
 **Note**: Elite Intelligence requires 3E Cloud.
 
-<img src="/img/media/image62.png" style={{width: "6.5in", height: "4.30208in"}} />
+<img src="/img/media/image62.png" style="width: 6.5in; height: 4.30208in" />
 
  
 
@@ -62,7 +62,7 @@ Do the following to delegate tasks with AI for Proforma:
 
  
 
-<img src="/img/media/image63.png" style={{width: "6.5in", height: "4.20833in"}} />
+<img src="/img/media/image63.png" style="width: 6.5in; height: 4.20833in" />
 
 ##### *Available Actions*
 
@@ -108,5 +108,5 @@ AI for 3E Proforma comes with a list of pre-defined stock prompts for frequently
 
 To access the library, after opening the AI Inquiry window, click **Elite Intelligence** and select **Library**. Select a listed prompt and click **Send**.
 
-<img src="/img/media/image64.png" style={{width: "6.5in", height: "3.75in"}} />
+<img src="/img/media/image64.png" style="width: 6.5in; height: 3.75in" />
 

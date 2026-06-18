@@ -10,7 +10,7 @@ Do the following to execute an action on multiple proformas:
 
 2.  Click the **Action** drop-down menu adjacent to the **Select** check box and choose an action (e.g., Bill Preview, Forward, or Submit).
 
-<img src="/img/media/image110.png" style={{width: "6.5in", height: "3.80208in"}} />
+<img src="/img/media/image110.png" style="width: 6.5in; height: 3.80208in" />
 
  
 

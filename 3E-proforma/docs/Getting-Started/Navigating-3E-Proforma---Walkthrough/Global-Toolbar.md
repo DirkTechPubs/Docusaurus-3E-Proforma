@@ -8,7 +8,7 @@ The Global toolbar displays always at the top of the 3E Proforma app, in both th
 
 - Resource Center
 
-<img src="/img/media/image20.png" style={{width: "6.5in", height: "1.9375in"}} />
+<img src="/img/media/image20.png" style="width: 6.5in; height: 1.9375in" />
 
 #### Working As
 

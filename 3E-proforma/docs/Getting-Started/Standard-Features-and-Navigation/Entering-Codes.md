@@ -6,5 +6,5 @@ Throughout 3E Proforma, to enter any field that is a code (Tax Code, Task Code, 
 
 2.  Click on the required line to be applied to the card.
 
-<img src="/img/media/image54.png" style={{width: "6.15625in", height: "2.01042in"}} />
+<img src="/img/media/image54.png" style="width: 6.15625in; height: 2.01042in" />
 

@@ -16,7 +16,7 @@ Do the following to print a proforma:
 
 **Note**: Proformas can also be printed in the Proforma Details view. Select **Print Proforma** from the [<u>Proforma-level</u> **Action** <u>menu</u>](../Getting-Started/Navigating-3E-Proforma---Walkthrough/Navigating-the-Proforma-Detail-View.md#navigating-the-proforma-detail-view).
 
-<img src="/img/media/image109.png" style={{width: "6.15625in", height: "4.05208in"}} />
+<img src="/img/media/image109.png" style="width: 6.15625in; height: 4.05208in" />
 
 [Batch Processing Proforma Actions](Batch-Processing-Proforma-Actions.md#batch-processing-proforma-actions)
 

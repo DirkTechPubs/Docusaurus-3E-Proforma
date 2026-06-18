@@ -128,13 +128,7 @@ This action is dangerous
 ```jsx
 export const Highlight = ({children, color}) => (
   <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
+    style=""
     onClick={() => {
       alert(`You clicked the color ${color} with label ${children}`)
     }}>
@@ -149,13 +143,7 @@ This is <Highlight color="#1877F2">Facebook blue</Highlight> !
 
 export const Highlight = ({children, color}) => (
   <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
+    style=""
     onClick={() => {
       alert(`You clicked the color ${color} with label ${children}`);
     }}>

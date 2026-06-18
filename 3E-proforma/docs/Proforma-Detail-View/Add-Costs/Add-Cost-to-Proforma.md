@@ -14,7 +14,7 @@ Do the following to add a cost card to a proforma:
 
  
 
-<img src="/img/media/image92.png" style={{width: "6.5in", height: "5.46875in"}} />
+<img src="/img/media/image92.png" style="width: 6.5in; height: 5.46875in" />
 
  
 

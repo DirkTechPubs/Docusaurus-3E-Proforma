@@ -2,7 +2,7 @@
 
 The Archived Proformas List view displays all proformas that have been archived in the current and prior periods.
 
-<img src="/img/media/image125.png" style={{width: "6.5in", height: "3.60417in"}} />
+<img src="/img/media/image125.png" style="width: 6.5in; height: 3.60417in" />
 
  
 

@@ -2,7 +2,7 @@
 
 Paging options are available in the Proforma List view and in card lists in the Proforma Details view. The paging bar is located at the bottom of the page.
 
-<img src="/img/media/image21.png" style={{width: "6.5in", height: "1.92708in"}} />
+<img src="/img/media/image21.png" style="width: 6.5in; height: 1.92708in" />
 
  
 
