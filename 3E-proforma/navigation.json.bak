@@ -79,13 +79,6 @@
                                                                        "path":  "docs/Getting-Started/Navigating-3E-Proforma---Walkthrough/Global-Toolbar.md"
                                                                    },
                                                                    {
-                                                                       "label":  "Lists",
-                                                                       "type":  "group",
-                                                                       "children":  [
-
-                                                                                    ]
-                                                                   },
-                                                                   {
                                                                        "label":  "Entering Codes",
                                                                        "type":  "page",
                                                                        "path":  "docs/Getting-Started/Standard-Features-and-Navigation/Entering-Codes.md"
@@ -99,13 +92,6 @@
                                                                        "label":  "Edit Level Tracking",
                                                                        "type":  "page",
                                                                        "path":  "docs/Getting-Started/Standard-Features-and-Navigation/Edit-Level-Tracking.md"
-                                                                   },
-                                                                   {
-                                                                       "label":  "AI Inquiry",
-                                                                       "type":  "group",
-                                                                       "children":  [
-
-                                                                                    ]
                                                                    }
                                                                ]
                                               }
@@ -259,13 +245,6 @@
                                                                        "path":  "docs/Proforma-Detail-View/Managing-Cards/Combine-Cards.md"
                                                                    },
                                                                    {
-                                                                       "label":  "Divide Entries",
-                                                                       "type":  "group",
-                                                                       "children":  [
-
-                                                                                    ]
-                                                                   },
-                                                                   {
                                                                        "label":  "Flag Card as Non-billable",
                                                                        "type":  "page",
                                                                        "path":  "docs/Proforma-Detail-View/Managing-Cards/Flag-Card-as-Non-billable.md"
@@ -348,13 +327,6 @@
                                                                        "label":  "Find and Replace",
                                                                        "type":  "page",
                                                                        "path":  "docs/Proforma-Detail-View/Tools/Find-and-Replace.md"
-                                                                   },
-                                                                   {
-                                                                       "label":  "Spell Check",
-                                                                       "type":  "group",
-                                                                       "children":  [
-
-                                                                                    ]
                                                                    }
                                                                ]
                                               }

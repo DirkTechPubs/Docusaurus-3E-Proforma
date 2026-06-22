@@ -61,7 +61,8 @@ Write-Host ""
 Write-Host "Indexing docs folder..."
 $fileIndex = @{}
 Get-ChildItem -Path $DocsFolder -Recurse -Include "*.md", "*.mdx" | ForEach-Object {
-    $key          = $_.BaseName.ToLower()
+    # Normalize key the same way as labels: collapse consecutive hyphens
+    $key          = ($_.BaseName -replace '-{2,}', '-').ToLower()
     $relativePath = "docs/" + ($_.FullName.Substring($DocsFolder.Length + 1) -replace '\\', '/')
     # First match wins (shallower paths preferred)
     if (-not $fileIndex.ContainsKey($key)) {
@@ -73,10 +74,10 @@ Write-Host "  Indexed $($fileIndex.Count) doc files."
 # --- Helper: normalise a label to a lookup key ---
 function Get-NormalizedKey {
     param([string]$label)
-    # Replace runs of whitespace with hyphens, lowercase, trim.
-    # "Accessing 3E Proforma"  -> "accessing-3e-proforma"
-    # "Appendix A - Proforma"  -> "appendix-a---proforma" (matches file naming)
-    return ($label.Trim() -replace '\s+', '-').ToLower()
+    # Replace runs of whitespace with hyphens, collapse consecutive hyphens, lowercase.
+    # "Accessing 3E Proforma"    -> "accessing-3e-proforma"
+    # "Proforma Details - Costs Tab" -> "proforma-details-costs-tab"
+    return (($label.Trim() -replace '\s+', '-') -replace '-{2,}', '-').ToLower()
 }
 
 # --- Helper: find a doc file path by label ---
